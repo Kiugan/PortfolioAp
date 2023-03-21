@@ -31,15 +31,4 @@ div{
     width: 100%;
     border-radius: 100%;
     box-shadow: 3px 3px 3px grey;
-    
-}
-
-#nombre{
-    font-weight: bold;
-    position: relative;
-    top: 100px;
-}
-#titulo{
-    position: relative;
-    top: 100px;
 }
