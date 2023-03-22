@@ -1,9 +1,7 @@
-.row{
-    background-color: #a1b5cb;
-    padding: 20px;
-}
 .contenedor{
     width: auto;
+    background-color: #a1b5cb;
+    padding: 20px;
 }
 .parte1, .parte2{
     display: inline-block;

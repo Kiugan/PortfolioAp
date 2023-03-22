@@ -1,0 +1,13 @@
+@media (max-width: 991px){
+    .nav-link{
+        text-align: center;
+        
+    }
+    .navbar-nav{
+        background: #a1b5cb;  /* fallback for old browsers */
+        background: -webkit-linear-gradient(to bottom, #a1b5cb, #7a8a9c);  /* Chrome 10-25, Safari 5.1-6 */
+        background: linear-gradient(to bottom, #a1b5cb, #7a8a9c); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    }
+}
+
+
